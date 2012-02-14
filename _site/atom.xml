@@ -1,0 +1,27 @@
+<p>&lt;?xml version=&quot;1.0&quot;?&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feed Name</title>
+  <link href="http://domain/"/>
+  <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
+  <updated>Liquid syntax error: Error - Filter 'date' does not have a default value for 'format' and no value was supplied</updated>
+  <id>http://domain/</id>
+  <author>
+    <name>Author</name>
+    <email>Email</email>
+  </author></p>
+<p>
+  <entry>
+    <id>http://domain//2012/02/13/myfirstpost.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2012/02/13/myfirstpost.html"/>
+    <title>My First Post</title>
+    <updated>Liquid syntax error: Error - Filter 'date' does not have a default value for 'format' and no value was supplied</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html"><h2>Hello world...</h2>
+<p>This is my first post on the site!</p>
+</content>
+  </entry>
+  
+</feed></p>

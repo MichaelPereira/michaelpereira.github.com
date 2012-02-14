@@ -1,0 +1,26 @@
+<p>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;rss version=&quot;2.0&quot; xmlns:atom=&quot;http://www.w3.org/2005/Atom&quot;&gt;
+<channel>
+    <title>Feed Name</title>
+    <link>http://domain/</link>
+    &lt;atom:link href=&quot;http://domain/rss.xml&quot; rel=&quot;self&quot; type=&quot;application/rss+xml&quot; /&gt;
+    <description></description>
+    <language>en-au</language>
+    <pubDate>Liquid error: Parameter count mismatch.</pubDate>
+    <lastBuildDate>Liquid error: Parameter count mismatch.</lastBuildDate></p>
+<pre><code>
+&lt;item&gt;
+  &lt;title&gt;My First Post&lt;/title&gt;
+  &lt;link&gt;http://domain/2012/02/13/myfirstpost.html&lt;/link&gt;
+  &lt;pubDate&gt;Liquid error: Parameter count mismatch.&lt;/pubDate&gt;
+  &lt;author&gt;Author&lt;/author&gt;
+  &lt;guid&gt;http://domain/2012/02/13/myfirstpost.html&lt;/guid&gt;
+  &lt;description&gt;<h2>Hello world...</h2>
+<p>This is my first post on the site!</p>
+&lt;/description&gt;
+&lt;/item&gt;
+
+</code></pre>
+
+<p></channel> 
+</rss></p>
